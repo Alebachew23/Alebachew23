@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-I’m a Computational Biologist with a background in molecular biology and bioinformatics, currently expanding into machine learning (ML). My work focuses on integrating multi-omics data (genomics, transcriptomics, proteomics, epigenomics) with ML approaches to better understand infectious and non-infectious diseases, especially those affecting low- and middle-income countries.
+I’m a Computational Biologist and Bioinformatician with a foundation in molecular biology and a growing focus on machine learning (ML) and deep learning (DL). My research integrates multi-omics data (genomics, transcriptomics, proteomics, and epigenomics) with ML/DL approaches to better understand infectious and non-infectious diseases, particularly those disproportionately affecting low- and middle-income countries (LMICs).
 
-I’m passionate about using data-driven methods to address global health challenges and making advanced computational tools more inclusive for underserved populations
+I’m passionate about using data-driven methods to make advanced bioinformatics and AI tools more inclusive and impactful, especially for populations often underserved by current technologies.
 
 ### Skills
 
